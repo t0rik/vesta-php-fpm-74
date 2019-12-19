@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/t0rik/vesta-php-fpm-74.svg)](http://hits.dwyl.io/t0rik/vesta-php-fpm-74)
+
 # vesta-php-fpm-74
 VestaCP PHP templates for PHP 7.4
 
